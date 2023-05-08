@@ -1,0 +1,34 @@
+{
+  "stories": [
+    {
+      "title": "Samara",
+      "body": "Have you ever heard of a videotape that kills everyone who watch it?",
+      "author": "Tom Denvill",
+      "id": 1
+    },
+    {
+      "title": "Mr Sandman",
+      "body": "I have heard a lot of incredible stories about a man that brings people dreams, good ones and nightmares",
+      "author": "Jeremy Klover",
+      "id": 2
+    },
+    {
+      "title": "My deadly love",
+      "body": "Beautiful things are poisonous. That is what he told me when we first met.",
+      "author": "Angelique",
+      "id": 3
+    },
+    {
+      "title": "Diamonds",
+      "body": "I found that diamond in my uncle's mansion. ",
+      "author": "Jackie",
+      "id": 4
+    },
+    {
+      "title": "Rag",
+      "body": "Lissie loved this doll. I have never seen my child so happy and caring about something. ",
+      "author": "Samuel Brown",
+      "id": 5
+    }
+  ]
+}
