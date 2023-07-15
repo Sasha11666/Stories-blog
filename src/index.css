@@ -9,6 +9,11 @@
 
 html {
   background-color: rgb(0, 0, 0);
+  cursor: url("../public/boo.cur"), auto;
+}
+
+a:hover {
+  cursor: url("../public/boo-link.cur"), auto;
 }
 
 body::-webkit-scrollbar {
@@ -50,7 +55,7 @@ body::-webkit-scrollbar {
 }
 .story-preview:hover {
   box-shadow: 1px 3px 8px rgba(109, 106, 106, 0.5);
-  cursor: pointer;
+  cursor: url("../public/boo-link.cur"), auto;
 }
 .story-preview h2 {
   font-size: 20px;
@@ -77,7 +82,7 @@ body::-webkit-scrollbar {
   border: 0;
   padding: 8px;
   border-radius: 8px;
-  cursor: pointer;
+  cursor: url("../public/boo-link.cur"), auto;
 }
 
 .create {
@@ -110,7 +115,7 @@ body::-webkit-scrollbar {
   border: 0;
   padding: 8px;
   border-radius: 8px;
-  cursor: pointer;
+  cursor: url("../public/boo-link.cur"), auto;
 }
 
 .not-exist h2 {
